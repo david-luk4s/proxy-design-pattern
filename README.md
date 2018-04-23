@@ -1,12 +1,7 @@
 # Project Proxy
 
-* Projeto proxy com java - Programação Orientado a Objeto - Java
+* Example of project using proxy with java - Object Oriented Programming
 
 # Authors
 
 * David Lucas Souza da Silva
-* Bianca Lima Mourão
-* José Anderson dos Anjos
-* Otávio Rocha
-* Fracisco Neto
-	
