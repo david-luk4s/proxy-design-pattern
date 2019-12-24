@@ -4,8 +4,8 @@
 
 # Project Proxy
 
-* Example of project using proxy with java - Object Oriented Programming
+* Example of Proxy Design Pattern with java
 
-# Authors
+# Author
 
 * David Lucas Souza da Silva
